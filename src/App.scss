@@ -1,8 +1,10 @@
 .App {
-  text-align: center;
+  text-align: start;
 
   .logo {
-    height: 40vh;
+    img {
+      width: 60%;
+    }
 
   }
 }
